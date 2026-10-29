@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+
+  .services-section{
+    position: static;
+    top: 0px;
+    
+  }
+
+  .team-section{
+    position: static;
+    top: 0px;
+  }
+
+  .projects-section{
+     position: static;
+    top: 0px;
+  }
+  
+  /* to be reviewed later */
+  .service-marquee{
+    position: relative;
+    top: -200px;
+  }
+
+  .testimonial-section{
+     position: static;
+    top: 0px;
+  }
+
+  .team-section{
+    position: relative;
+    top: -70px;
+  }
+
+  .pricing-section{
+    position: static;
+    top: 0px;
+  }
+}

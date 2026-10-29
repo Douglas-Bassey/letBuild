@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .mobilehomeresponsive {
+        display: block;
+        position: relative;
+        top: 150px;
+    }
+
+
+    /* .hero-clients{
+        position: relative;
+        top: 3px;
+    } */
+}
